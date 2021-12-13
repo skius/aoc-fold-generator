@@ -1,0 +1,3 @@
+Ah, did you think you could just look at input.txt to find out what the Gist is all about?
+
+I'm afraid you'll have to solve it yourself.
